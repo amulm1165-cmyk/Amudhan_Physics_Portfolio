@@ -1,8 +1,8 @@
 
-# Amudhan M - Computational & Quantum Physics Portfolio
+# Amudhan Maran - Physics Portfolio
 
 ## About
-This repository showcases computational, experimental, and quantum computing projects integrating physics, materials science, and quantum information concepts.
+This repository showcases computational, experimental, theoretical,  and quantum computing projects integrating physics, materials science, and quantum information concepts.
 
 ## Skills & Tools
 **Languages:** Python, Bash, MATLAB, C  
@@ -12,6 +12,6 @@ This repository showcases computational, experimental, and quantum computing pro
 **OS:** Windows  
 
 ## Contact
-**Amudhan M**  
-Email: [your-email@example.com]  
-GitHub: [github.com/AmudhanM-Quantum]
+**Amudhan Maran**  
+Email: [amulm1165@gmail.com]  
+GitHub: [github.com/Amudhan Maran-Quantum]
