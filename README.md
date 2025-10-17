@@ -14,4 +14,4 @@ This repository showcases computational, experimental, theoretical,  and quantum
 ## Contact
 **Amudhan Maran**  
 Email: [amulm1165@gmail.com]  
-GitHub: [github.com/Amudhan Maran-Quantum]
+GitHub: [github.com/amudhanmaran-Quantum]
